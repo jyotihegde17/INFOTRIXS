@@ -1,4 +1,7 @@
 # INFOTRIXS
+##### Task1:
+For monolith: 1 EC2 instance create, deploy WordPress and MYSQL on the same instance.
+
 ****Pre-requisites:****
 •	Configure the necessary security group for the instances.
 •	EC2 instance type: t2 micro, AMI: Ubuntu
