@@ -1,6 +1,7 @@
 # INFOTRIXS INTERNSHIP
 ##### Task1:
 For monolith: 1 EC2 instance create, deploy WordPress and MYSQL on the same instance.
+create a simple webpage
 
 ****Pre-requisites:****
 •	Configure the necessary security group for the instances.
